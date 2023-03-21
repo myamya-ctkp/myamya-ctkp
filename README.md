@@ -1,4 +1,4 @@
 # Hi,I'm myamya.
 ## My Github status
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=myamya-ctkp)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myamya-ctkp)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myamya-ctkp&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
